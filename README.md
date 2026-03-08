@@ -1,11 +1,9 @@
-# Program-data-Mobil
-latihan PEMLAN #1
 //Muhammad Faiz Najmuddin
 //255150707111013
 
-import java.util.Scanner;
+    import java.util.Scanner;
 
-public class MainMobil {
+    public class MainMobil {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
